@@ -1,1 +1,1 @@
-# Strategic-landmarks-and-bounding-box
+# Strategic landmarks and bounding-box
