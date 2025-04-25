@@ -1,0 +1,19 @@
+# Data
+path: C:/Users/tinao/OneDrive/Desktop/Keypoint/data
+train: images/train  # train images (relative to 'path')
+val: images/val  # val images (relative to 'path')
+
+# Keypoints
+kpt_shape: [6, 2]  # [number of keypoints, number of dim]
+flip_idx: [4, 3, 2, 1, 0, 5]
+
+# Classes
+names:
+  0: Blue Wildebeest_Left
+  1: Eland_Left
+  2: Giraffe_Left
+  3: Zebra_Left
+  4: Blue Wildebeest_Right
+  5: Eland_Right
+  6: Giraffe_Right
+  7: Zebra_Right
